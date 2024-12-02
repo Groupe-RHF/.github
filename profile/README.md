@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to Groupe RHF's GitHub!
+## Bonjour ! 👋 Bienvenue sur votre organisation !
 
 ### 🌟 A propos de nous
 Groupe RHF est une organisation regroupant plusieurs sociétés, dont :
