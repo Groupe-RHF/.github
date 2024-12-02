@@ -1,7 +1,7 @@
 ---
 name: Rapport de Bug
 about: Créer un rapport afin d'améliorer la qualité de nos solutions
-title: ''
+title: "[BUG]"
 labels: bug
 assignees: ''
 
